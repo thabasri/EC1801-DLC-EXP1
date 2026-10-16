@@ -118,6 +118,7 @@ and successfully implemented using Verilog HDL.
 
 
 
+
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis.
 7. Viva-Voce Questions
 1.	What is Boolean function minimization?
